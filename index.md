@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: "GNAP's Not Another Programmer!"
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
