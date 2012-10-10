@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : "GNAP's Blog"
-# tagline: Site Tagline
+tagline: ""
 author :
   name : George Ang
   email : gnap.an@gmail.com
