@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Moved to Jekyll
+category: default
+tags: [bootstrap]
 ---
-
 {% include JB/setup %}
 
-<h2>Moved to Jyekyll.</h2>
+###Moved to Jyekyll.
